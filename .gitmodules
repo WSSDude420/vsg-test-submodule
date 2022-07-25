@@ -1,3 +1,24 @@
 [submodule "thirdparty/vsg"]
 	path = thirdparty/vsg
 	url = git@github.com:vsg-dev/VulkanSceneGraph.git
+[submodule "thirdparty/assimp"]
+	path = thirdparty/assimp
+	url = git@github.com:WSSDude420/assimp.git
+[submodule "thirdparty/vsgXchange"]
+	path = thirdparty/vsgXchange
+	url = git@github.com:WSSDude420/vsgXchange.git
+[submodule "thirdparty/Vulkan-Loader"]
+	path = thirdparty/Vulkan-Loader
+	url = git@github.com:WSSDude420/Vulkan-Loader.git
+[submodule "thirdparty/Vulkan-Headers"]
+	path = thirdparty/Vulkan-Headers
+	url = git@github.com:WSSDude420/Vulkan-Headers.git
+[submodule "thirdparty/SPIRV-Headers"]
+	path = thirdparty/SPIRV-Headers
+	url = git@github.com:WSSDude420/SPIRV-Headers.git
+[submodule "thirdparty/SPIRV-Tools"]
+	path = thirdparty/SPIRV-Tools
+	url = git@github.com:WSSDude420/SPIRV-Tools.git
+[submodule "thirdparty/glslang"]
+	path = thirdparty/glslang
+	url = git@github.com:WSSDude420/glslang.git
